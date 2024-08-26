@@ -40,6 +40,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jubrav/jubrav/output/snake.svg" alt="Snake animation" />
 
 ###
