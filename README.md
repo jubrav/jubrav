@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Aprendedo a desenvolover ...</p>
+<p align="left">Aprendedo ...</p>
 
 ###
 
